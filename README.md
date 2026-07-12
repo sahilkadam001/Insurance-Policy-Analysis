@@ -41,6 +41,7 @@ This project analyzes insurance policy data to identify business performance, po
 ## Files Included
 
 - Power BI Dashboard (.pbix)
+- Excel Dashboard (.xlsx)
 - Dataset (.xlsx)
 - SQL Queries
 - Dashboard Screenshot
